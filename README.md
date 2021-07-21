@@ -1,3 +1,3 @@
 # Restful-API-using-NODE-JS-and-Express-JS
-Created a books API that gets all programming books. I used Postman to update, delete, add, getbooks id. You can edit all files through Postman, VS studio, MongoDB compass
+Created a books API that gets all programming books. I used Postman to update, delete, add, getbooks id. You can edit all files through Postman, VS studio, MongoDB compass. Since the packages are to much for github to handle make sure that you install Express, Swagger.io, SwaggerUi, Bodyparser and more. If you want to know which other packages you need to install please send me a message though my website and I will reply with any issues that you are experincing. 
 To run the app download all files on to desktop computer and run on localhost: 8080 to view what get outputed. 
